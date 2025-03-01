@@ -75,7 +75,7 @@ I'm always open to collaborating on exciting blockchain projects. Feel free to r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3C3C3D?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/Code-Crazier)
 [![Twitter](https://img.shields.io/badge/Twitter-3C3C3D?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Code-Crazier)
-
+[![Email](https://img.shields.io/badge/Email-3C3C3D?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stuartyang1130@gmail.com)
 ---
 
 ## 💡 Fun Fact
