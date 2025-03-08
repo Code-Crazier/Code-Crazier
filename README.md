@@ -53,9 +53,3 @@ A blockchain-based supply chain tracking system using Hyperledger Fabric.
 ---
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code-Crazier" alt="Code-Crazier" /></a> </p>  
-  
-## My Github Stats
-<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Crazier&show_icons=true&locale=en&layout=compact"  alt="Code-Crazier" />
-<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Code-Crazier&show_icons=true&locale=en"  alt="Code-Crazier" />
-</div>
