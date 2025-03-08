@@ -51,37 +51,11 @@ A blockchain-based supply chain tracking system using Hyperledger Fabric.
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Code-Crazier/supply-chain-tracking)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Crazier&show_icons=true&theme=dark)
-
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code-Crazier" alt="Code-Crazier" /></a> </p>  
-
----
-
-## ☕ Buy Me a Coffee
-
-If you find my work helpful or just want to support me, you can buy me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/code-crazier)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to collaborating on exciting blockchain projects. Feel free to reach out to me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C3C3D?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/Code-Crazier)
-[![Twitter](https://img.shields.io/badge/Twitter-3C3C3D?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Code-Crazier)
-[![Email](https://img.shields.io/badge/Email-3C3C3D?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stuartyang1130@gmail.com)
----
-
-## 💡 Fun Fact
-
-Did you know? The first blockchain was conceptualized in 1991 by Stuart Haber and W. Scott Stornetta, but it wasn't until Bitcoin's creation in 2009 that blockchain technology gained widespread attention.
-
----
-
-Made with ❤️ by [Code-Crazier](https://github.com/Code-Crazier)
+  
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Crazier&show_icons=true&locale=en&layout=compact"  alt="Code-Crazier" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Code-Crazier&show_icons=true&locale=en"  alt="Code-Crazier" />
+</div>
