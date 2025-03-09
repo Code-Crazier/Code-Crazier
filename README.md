@@ -49,6 +49,3 @@ A fully functional NFT marketplace built on Solana using Rust and React.
 A blockchain-based supply chain tracking system using Hyperledger Fabric.
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Code-Crazier/supply-chain-tracking)
-
----
-## 🏆 GitHub Trophies
