@@ -33,22 +33,22 @@ Congratulations!!!!
 Here are some of my notable blockchain projects:
 
 ### 1. **Decentralized Voting System**
-![GitHub Stars](https://img.shields.io/github/stars/Code-Crazier/decentralized-voting-system?style=social)
+![GitHub Stars](https://img.shields.io/github/stars//decentralized-voting-system?style=social)
 A secure and transparent voting system built on Ethereum using Solidity and React.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Code-Crazier/decentralized-voting-system)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com//decentralized-voting-system)
 
 ### 2. **NFT Marketplace**
-![GitHub Stars](https://img.shields.io/github/stars/Code-Crazier/nft-marketplace?style=social)
+![GitHub Stars](https://img.shields.io/github/stars//nft-marketplace?style=social)
 A fully functional NFT marketplace built on Solana using Rust and React.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Code-Crazier/nft-marketplace)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com//nft-marketplace)
 
 ### 3. **Supply Chain Tracking**
-![GitHub Stars](https://img.shields.io/github/stars/Code-Crazier/supply-chain-tracking?style=social)
+![GitHub Stars](https://img.shields.io/github/stars//supply-chain-tracking?style=social)
 A blockchain-based supply chain tracking system using Hyperledger Fabric.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Code-Crazier/supply-chain-tracking)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com//supply-chain-tracking)
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xprofessional1130" alt="xprofessional1130" /></a> </p>  
