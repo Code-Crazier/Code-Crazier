@@ -15,19 +15,12 @@ Here are some of the technologies and tools I work with:
 ![Binance Smart Chain](https://img.shields.io/badge/Binance%20Smart%20Chain-3C3C3D?style=for-the-badge&logo=Binance&logoColor=white)
 
 ### Programming Languages
+![Rust](https://img.shields.io/badge/Rust-3C3C3D?style=for-the-badge&logo=Rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3C3C3D?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3C3C3D?style=for-the-badge&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-3C3C3D?style=for-the-badge&logo=Rust&logoColor=white)
-
-### Tools & Frameworks
-![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=Truffle&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?style=for-the-badge&logo=Hardhat&logoColor=white)
-![Metamask](https://img.shields.io/badge/Metamask-3C3C3D?style=for-the-badge&logo=Metamask&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-3C3C3D?style=for-the-badge&logo=IPFS&logoColor=white)
 
 ---
-Congratulations!!!!
 ## 🌟 Featured Projects
 
 Here are some of my notable blockchain projects:
