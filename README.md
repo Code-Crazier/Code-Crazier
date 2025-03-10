@@ -16,6 +16,7 @@ Here are some of the technologies and tools I work with:
 
 ### Programming Languages
 ![Rust](https://img.shields.io/badge/Rust-3C3C3D?style=for-the-badge&logo=Rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3C3C3D?style=for-the-badge&logo=Go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3C3C3D?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3C3C3D?style=for-the-badge&logo=Python&logoColor=white)
